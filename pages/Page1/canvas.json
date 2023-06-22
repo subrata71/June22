@@ -27,18 +27,7 @@
           "leftColumn": 0,
           "children": []
         },
-        "layoutOnLoadActions": [
-          [
-            {
-              "id": "Page1_GetUsers",
-              "name": "GetUsers",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ]
-        ],
+        "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Page1",
