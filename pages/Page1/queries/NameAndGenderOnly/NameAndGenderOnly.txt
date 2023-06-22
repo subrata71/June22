@@ -1,0 +1,1 @@
+SELECT name, gender FROM users ORDER BY id LIMIT 10;

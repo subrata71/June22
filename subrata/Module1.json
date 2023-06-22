@@ -1,0 +1,9 @@
+{
+  "packageId": "PackageId123",
+  "workspaceId": "workspaceId13213",
+  "pluginType": "DB",
+  "publicActionId": "xyz",
+  "deleted": false,
+  "policies": [],
+  "userPermissions": []
+}
