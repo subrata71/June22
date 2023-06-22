@@ -1,0 +1,13 @@
+{
+  "name": "@amplitude/analytics-browser",
+  "uidString": "amplitude_https://cdn.jsdelivr.net/npm/@amplitude/analytics-browser@1.6.1/lib/scripts/amplitude-min.umd.js",
+  "accessor": [
+    "amplitude"
+  ],
+  "url": "https://cdn.jsdelivr.net/npm/@amplitude/analytics-browser@1.6.1/lib/scripts/amplitude-min.umd.js",
+  "version": "1.6.1",
+  "defs": "{\"!name\":\"LIB/amplitude\",\"amplitude\":{\"Identify\":{\"!type\":\"fn()\",\"prototype\":{}},\"Revenue\":{\"!type\":\"fn()\",\"prototype\":{}},\"Types\":{\"ServerZone\":{},\"SpecialEventType\":{},\"IdentifyOperation\":{},\"RevenueProperty\":{},\"LogLevel\":{},\"PluginType\":{},\"Status\":{},\"TransportType\":{}},\"add\":{},\"createInstance\":{},\"flush\":{},\"getDeviceId\":{},\"getSessionId\":{},\"getUserId\":{},\"groupIdentify\":{},\"identify\":{},\"init\":{},\"logEvent\":{},\"remove\":{},\"reset\":{},\"revenue\":{},\"runQueuedFunctions\":{},\"setDeviceId\":{},\"setGroup\":{},\"setOptOut\":{},\"setSessionId\":{},\"setTransport\":{},\"setUserId\":{},\"track\":{},\"__esModule\":{}}}",
+  "deleted": false,
+  "policies": [],
+  "userPermissions": []
+}
