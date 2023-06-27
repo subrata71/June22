@@ -18,7 +18,7 @@
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
-      "body": "SELECT name, gender FROM users ORDER BY id LIMIT 10;",
+      "body": "SELECT name, gender, id FROM users ORDER BY id LIMIT 10;",
       "selfReferencingDataPaths": [],
       "pluginSpecifiedTemplates": [
         {
